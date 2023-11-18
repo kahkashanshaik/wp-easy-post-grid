@@ -15,5 +15,9 @@ class Activate
 	{
 		flush_rewrite_rules( );
 	}
+
+	public function testing_git_function() {
+		echo "hello world";
+	}
 }
 
