@@ -1,0 +1,20 @@
+{
+    "name": "kahka/kk-post-grid",
+    "description": "Wp Easy Posts Grid help you in creating beautiful posts grid without any hassle in just few clicks",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "kahkashanshaik",
+            "email": "kahkashan1507@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+            "psr-4" :{
+                "Inc\\" : "./inc"
+            }
+        }
+}
